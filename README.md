@@ -53,7 +53,7 @@ In Canada crypto currencies and smart contracts are regulated under provincial s
 ## DCS  
 DCS are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
 
-The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/Ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
+The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
 
 ## SLP
 [SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
