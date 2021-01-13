@@ -10,9 +10,12 @@ Digitizing and tokenizing proof of compliance to certification requirements.
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
 
 # Services
-Management of demonstration of regulatory compliance (means of compliance), crypto-currencies, smart-contract, blockchain.  
-Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitaly signed and encrypted blockchain for applications such as regulatory compliance, quality management and assurance. 
-Witnessing, auditing, certifying (Oracle) with a transparent and incorruptible blockchain decentralised digital ledger of transactions that can be programmed to record proof of compliance to requirements.  
+Management of: proof of regulatory compliance; smart-contract, blockchain, crypto-currencies.  
+Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitally signed and encrypted blockchain.  
+Witnessing, auditing, certifying on an incorruptible blockchain ledger of transactions programmed to record proof of compliance.  
+
+SCOPE: Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
+SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems CAR 901.29 (maintained to manufacturer's instructions).    
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
