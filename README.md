@@ -31,24 +31,24 @@ For Paypal and Interrac please contact us.
 
 # Definitions 
 CC = Crypto Currencies.  
-P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database).  
+QMS = Quality Management System.  
 SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
 
-AS9100 is a standardized quality management system for the aerospace industry. It is based on ISO9001.  
-ISO 9001 sets out the criteria for a quality management system and is the only standard in the family that can be certified to (although this is not a requirement).  
+AS9100 is a standardized quality management system for the aerospace industry. It is based on ISO 9001.  
+ISO 9001 sets out the criteria for a quality management system.
 ISO27001 is the international standard that sets out the specification for an information security management system (ISMS). 
 
 ## Legal
 
 Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.  
 
-2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210112t0638 (Latest commit fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, JF Giraud https://github.com/jean-francoisgiraud. 
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210112t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud.  
 
 Disclaimer. This is not financial advice and there are no warranties of any types.  
 
 In case of conflict between this procedure and any official regulatory requirements published by the elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence.  
 
-Legal Requirements depend on the country where the CCs are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
+Legal Requirements for CCs, smart contracts and QMS depend on the country where the CCs or QMS are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
 
 In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
 
