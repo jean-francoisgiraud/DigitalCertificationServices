@@ -46,11 +46,11 @@ Below is a brief summary of the legal and regulatory requirements, please contac
 
 Disclaimer. This is not financial advice and there are no warranties of any types.  
 
-In case of conflict between this procedure and any official regulatory requirements puyblished by elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence.  
+In case of conflict between this procedure and any official regulatory requirements published by the elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence.  
 
-Legal Requirements depend on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
+Legal Requirements depend on the country where the CCs are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
 
-In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell them at a profit, you have income (capital gains), profits and losses that need to be reported for tax purposes.  
+In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
 
 ## DCS  
 DCS are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
