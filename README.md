@@ -1,5 +1,5 @@
 # DigitalCertificationServices
-Digitizing and tokenizing certification requirements for Management Systems, AS9100, ISO9001, ISO27001
+Digitizing and tokenizing proof of compliance to certification requirements.
 ### Author: Jean-Francois Giraud eng.
 ### Company: 8289468 Canada Inc.
 ### Contacts:  
