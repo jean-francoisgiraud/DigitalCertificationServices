@@ -30,9 +30,9 @@ For Paypal and Interrac please contact us.
 [References](#References)  
 
 # Definitions 
-CC = Crypto Currencies.
-P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). 
-SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)   
+CC = Crypto Currencies.  
+P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database).  
+SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
 
 AS9100 is a standardized quality management system for the aerospace industry. It is based on ISO9001.  
 ISO 9001 sets out the criteria for a quality management system and is the only standard in the family that can be certified to (although this is not a requirement).  
