@@ -10,8 +10,8 @@ Digitizing and tokenizing certification requirements for Management Systems, AS9
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
 
 # Services
-We can provide technical support and manage your demonstration of regulatory compliance (means of compliance), crypto-currencies, smart-contract, blockchain needs.  
-Digital Certification Services (DCS). Replacing analog paper certifications for applications such as regulatory compliance and quality assurance in industry (specialising in aerospace). 
+We provide technical support and manage demonstration of regulatory compliance (means of compliance), crypto-currencies, smart-contract, blockchain needs.  
+Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitaly signed and encripted blockchain for applications such as regulatory compliance, quality management and assurance. 
 Witnessing, auditing, certifying (Oracle) with a transparent and incorruptible blockchain decentralised digital ledger of transactions that can be programmed to record proof of compliance to requirements.  
 
 Payments:   
@@ -31,7 +31,6 @@ ETH (Ethereum):
 [Services](#services)  
 [Definitions](#Definitions)  
 [Legal](#Legal)  
-[Regulatory compliance requirements](#regulatory-compliance-requirements)  
 [DCS](#dcs)  
 [SLP](#SLP)  
 [Contributing](#Contributing)   
@@ -56,7 +55,6 @@ Example: Signed contributor agreement - ContributorName
 
 Disclaimer. This is not financial advice (there are no warranties of any types).  
 
-## Regulatory compliance requirements
 In case of conflict between this procedure and any official regulatory requirements puyblished by elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence.  
 
 They depend on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
@@ -77,13 +75,10 @@ The DCS coin is listed on bitcoin.com [here]()
 SLP is used for token implementation and is similar to bitcoin. SLP tokens are valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
 ## Contributing
-You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.   
+You can contribute to this project by reporting issues or bugs by creating a Github-Issue. 
 
 ## References
+https://simpleledger.cash  
 https://en.wikipedia.org/wiki/Digital_currency  
 https://en.wikipedia.org/wiki/Token_economy  
-https://en.wikipedia.org/wiki/Ralph_Merkle  
 
-## Appendix
-
-# Changelog  
