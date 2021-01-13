@@ -31,6 +31,7 @@ For Paypal and Interrac please contact us.
 
 # Definitions 
 CC = Crypto Currencies.  
+DCS= Digital Certification Services.  
 QMS = Quality Management System.  
 SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
 
@@ -53,7 +54,7 @@ Legal Requirements for CCs, smart contracts and QMS depend on the country where 
 In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
 
 ## DCS  
-DCS are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+DCS (Digital Certification Services) are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
 
 The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)  
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
@@ -67,5 +68,6 @@ You can contribute to this project by reporting issues or bugs by creating a Git
 
 ## References
 https://explorer.bitcoin.com  
+https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7  
 https://simpleledger.cash  
 https://github.com/Electron-Cash/Electron-Cash  
