@@ -28,7 +28,6 @@ For Paypal and Interrac please contact us.
 [SLP](#SLP)  
 [Contributing](#Contributing)   
 [References](#References)  
-[Appendix](#Appendix)  
 
 # Definitions 
 CC = Crypto Currencies.
