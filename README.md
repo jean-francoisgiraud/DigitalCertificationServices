@@ -37,7 +37,7 @@ For Paypal and Interrac please contact us.
 # Definitions 
 CC = Crypto Currencies.  
 DCS= Digital Certification Services.  
-QMS = Quality Management System. 
+QMS = Quality Management System.  
 SOR = Statutes Orders Regulations.  
 SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
