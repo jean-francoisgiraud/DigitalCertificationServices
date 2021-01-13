@@ -11,7 +11,7 @@ Digitizing and tokenizing certification requirements for Management Systems, AS9
 
 # Services
 Management of demonstration of regulatory compliance (means of compliance), crypto-currencies, smart-contract, blockchain.  
-Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitaly signed and encripted blockchain for applications such as regulatory compliance, quality management and assurance. 
+Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitaly signed and encrypted blockchain for applications such as regulatory compliance, quality management and assurance. 
 Witnessing, auditing, certifying (Oracle) with a transparent and incorruptible blockchain decentralised digital ledger of transactions that can be programmed to record proof of compliance to requirements.  
 
 Payments:   
