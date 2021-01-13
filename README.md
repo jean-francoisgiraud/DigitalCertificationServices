@@ -48,7 +48,7 @@ In case of conflict between this procedure and any official regulatory requireme
 
 Requirements depend on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
 
-In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers. This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
 ## DCS  
 DCS are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
