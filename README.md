@@ -42,15 +42,13 @@ SOR = Statutes Orders Regulations.
 SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
 Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
-AS9100 is a standardized quality management system for the aerospace industry. It is based on ISO 9001.  
+AS 9100 is a standardized quality management system (QMS)for the aerospace industry. It is based on ISO 9001.  
 ISO 9001 sets out the criteria for a quality management system.  
-ISO27001 is the international standard that sets out the specification for an information security management system (ISMS). 
+ISO 27001 is the international standard that sets out the specification for an information security management system (ISMS). 
 
 ## Legal
 
-Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.  
-
-2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210112t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud.  
+Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.   
 
 Disclaimer. This is not financial advice and there are no warranties of any types.  
 
@@ -58,7 +56,9 @@ In case of conflict between this procedure and any official regulatory requireme
 
 Legal Requirements for CCs, smart contracts and QMS depend on the country where the CCs or QMS are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
 
-In Canada crypto currencies and smart contracts are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of money in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
+In Canada blockchains, smart contracts and crypto currencies are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of resources (time, money) in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
+
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210112t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud. 
 
 ## DCS  
 DCS (Digital Certification Services) are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
