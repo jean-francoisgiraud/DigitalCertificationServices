@@ -15,7 +15,9 @@ Digital Certification Services (DCS). Replacing analog paper wet-ink certificati
 Witnessing, auditing, certifying on an incorruptible blockchain ledger of transactions programmed to record proof of compliance.  
 
 SCOPE: Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
-SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems CAR 901.29 (maintained to manufacturer's instructions).    
+SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
+
+Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance in the DCS blockchain. The customer can then digitally prove/demonstrate to the authorities or other interetsed parties her/his compliance. This system can also used to prevent counterfeits by establishing the full provenance of a product or service.  
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
@@ -35,11 +37,13 @@ For Paypal and Interrac please contact us.
 # Definitions 
 CC = Crypto Currencies.  
 DCS= Digital Certification Services.  
-QMS = Quality Management System.  
-SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
+QMS = Quality Management System. 
+SOR = Statutes Orders Regulations.  
+SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
+Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
 AS9100 is a standardized quality management system for the aerospace industry. It is based on ISO 9001.  
-ISO 9001 sets out the criteria for a quality management system.
+ISO 9001 sets out the criteria for a quality management system.  
 ISO27001 is the international standard that sets out the specification for an information security management system (ISMS). 
 
 ## Legal
