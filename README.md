@@ -66,8 +66,7 @@ The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/to
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
 
 ## SLP
-[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
-SLP is used for token implementation and is similar to bitcoin. SLP tokens are valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own DCS) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
+[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own DCS) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
 ## Contributing
 You can contribute to this project by reporting issues or bugs by creating a Github-Issue. 
