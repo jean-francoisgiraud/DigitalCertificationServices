@@ -17,7 +17,7 @@ Witnessing, auditing, certifying on an incorruptible blockchain ledger of transa
 SCOPE: Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
 SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
 
-Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, pictures or any other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections. We re-audit to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The customer can then digitally prove, demonstrate, show to the authorities or other interested parties her/his compliance. Upon a request from an auhtority or customer a digital certificate holder can provide a token proving the full provenance of her/his product at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service.  
+Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, pictures or any other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections. We re-audit to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The customer can then digitally prove, demonstrate, show to the authorities or other interested parties her/his compliance. Upon a request from an auhtority or customer a digital certificate holder can provide a token proving the full provenance of her/his product at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service. The customer backs up her/his product's blockchain using their IT record keeping process.  
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
@@ -31,7 +31,6 @@ For Paypal and Interrac please contact us.
 [Legal](#Legal)  
 [DCS](#dcs)  
 [SLP](#SLP)  
-[Contributing](#Contributing)   
 [References](#References)  
 
 # Definitions 
