@@ -20,8 +20,9 @@ Digitizing and tokenizing proof of compliance to certification requirements.
 
 # Services
 Smart-contract, blockchain, crypto-currencies for Proof of compliance to regulatory or contractual requirements.  
-Digital Certification Services (DCS). Replacing previous certifications with tokens digitally signed and encrypted blockchain.  
-Certifications (witnessing, auditing, confirming) proof of compliance and continuous improvement.  
+Digital Certification Services (DCS).   
+Certifications (witnessing, auditing, confirming) proof of compliance and continuous improvement. 
+When services are provided new tokens are created which can then be owned (to show compliance) or sold (to transfer ownership).  
 
 Scope:  
 Quality Management Systems (AS9100, ISO9001, ISO14001, ISO27001). Canadian Aviation Regulations (CARs) and Standards. SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
