@@ -1,5 +1,5 @@
 # DigitalCertificationServices
-Digitizing and tokenizing proof of compliance to certification requirements.
+Tokenizing proof of compliance.
 ### Author: Jean-Francois Giraud eng.
 ### Company: 8289468 Canada Inc.
 ### Contacts:  
@@ -21,14 +21,11 @@ Digitizing and tokenizing proof of compliance to certification requirements.
 # Services
 Smart-contract, blockchain, crypto-currencies for Proof of compliance to regulatory or contractual requirements.  
 Digital Certification Services (DCS).   
-Certifications (witnessing, auditing, confirming) proof of compliance and continuous improvement. 
+Certifications (witnessing, auditing, confirming) proof of compliance and continuous improvement.  
 When services are provided new tokens are created which can then be owned (to show compliance) or sold (to transfer ownership).  
 
 Scope:  
 Quality Management Systems (AS9100, ISO9001, ISO14001, ISO27001). Canadian Aviation Regulations (CARs) and Standards. SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
-
-Typical worflow:  
-An organisation wants to digitize a certification. Certification requirements are compiled, the organisation verifies and confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, consensus on similarity, pictures or any combinations of other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections (typically a 5 why investigation). We re-audit untill all non compliances are resolved to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The organisation can then prove, demonstrate, show to the authorities or other interested parties its compliance. Interested parties can then verify (on the blockchain) any digital certificates. DCS holders can also provide DCS tokens proving the full provenance of their products at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service. The customer backs up its products certificates from the blockchain using their IT record keeping process.  
 
 Public DCS: For example organisations wishing to show their "interested parties" (regulators city community citizens) that they continuously meet their environmental obligations as per ISO 14000 could buy and then publish to the general public their DCS tokens that show the history of their ISO 14000 compliance.  Another example of a public DCS is when an aerospace manufacturer publishes its FAA, TCCA, EASA type certificate or parts history/provenance to publically show its regulatory compliance. The DCS token independantly confirms an organisations' claims. The advantage (vs traditional analog paper based certifications) is that the certification information and the audit trail is now digitised on a blockchain. DCS can be thought of as a replacement for third-parties such as registrars.  
 
@@ -37,6 +34,9 @@ Private DCS types of token. For example an organisation wishing to show only its
 Advantages: decentralization, immutability, security, economy (lower costs less wastes), transparency (beter accessibility to the data, once digital blockchain certificates are issued interested parties can verify them without having to depend on third-parties using private centralised databases).  
 
 Data security: ISO 27001 (ISMS).  
+
+Typical worflow:  
+An organisation wants to digitize some of its certifications. Certification requirements are compiled, the organisation verifies and confirms they agree with the checklist. We audit the process and tokenize/document all proof of compliance (test reports, analysis, consensus on similarity, pictures or any combinations of other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections (typically a 5 why investigation), new tokens are created to document this new work. We re-audit untill all non compliances are resolved to confirm the adequacy of the corrections and of the RCA and re-issue new DCS tokens for the now fully compliant process. The organisation can then prove, demonstrate, show to the authorities or other interested parties its compliance. Interested parties can then verify (on the blockchain) any digital certificates. DCS holders can also provide DCS tokens proving the full provenance of their products at any stage. DCS can also be used to prevent counterfeiting by establishing the full provenance of products from their design to their testing and finbally to their use in service. The organisation backs up its products certificates from the blockchain using their IT record keeping process.  
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
