@@ -1,22 +1,32 @@
-# DigitalCertificationServices
-Tokenizing proof of compliance.
+# DigitalCertificationServices (DCS)
 ### Author: Jean-Francois Giraud eng.
 ### Company: 8289468 Canada Inc.
 ### Contacts:  
-[Facebook](https://www.facebook.com/jeanfrancois.giraud.52/)  
-[Twitter](https://twitter.com/8289468)  
-[LinkedIn](https://linkedin.com/in/jfgiraudengineer)  
-[Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
-[Google Sites](https://sites.google.com/site/8289468canadainc)  
+[Facebook.](https://www.facebook.com/jeanfrancois.giraud.52/) [Twitter.](https://twitter.com/8289468) [LinkedIn.]https://linkedin.com/in/jfgiraudengineer) [Github.](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)[Google Sites.](https://sites.google.com/site/8289468canadainc)  
+BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
+BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
+For Paypal and Interrac please contact us.  
 
-# Table of Contents
 [Contacts](#contacts)  
-[Services](#services)  
 [Definitions](#Definitions)  
+[Services](#services)  
 [DCS](#dcs)  
-[SLP](#SLP)  
 [Legal](#Legal)  
 [References](#References)  
+
+# Definitions 
+CC = Crypto Currencies.  
+DCS = Digital Certification Services.  
+ISMS = Information Security Management System.  
+QMS = Quality Management System.  
+SOR = Statutes Orders Regulations.  
+SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
+
+AS 9100 An iso9001 based standardized quality management system (QMS) for the aerospace industry.  
+CAR Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
+ISO 9001 Quality Management system.  
+ISO 14001 Environmental Management Systems.  
+ISO 27001 Information Security Management System (ISMS). 
 
 # Services
 Smart-contract, blockchain, crypto-currencies for Proof of compliance to regulatory or contractual requirements.  
@@ -34,29 +44,10 @@ Private DCS types of token. For example an organisation wishing to show only its
 
 Advantages: Decentralization, immutability, security, economy (lower costs less wastes), transparency (beter accessibility to the data, once digital blockchain certificates are issued interested parties can verify them without having to depend on third-parties using private centralised databases). For example drone pilots can backup their CAR901.29 records on DCS tokens and they then would never have to worry about their certification data becoming lost, damaged, corrupted, stolen.  
 
-Data security: ISO 27001 (ISMS).  
+Data security: as per ISO 27001 (ISMS).  
 
 Typical worflow:  
 An organisation wants to digitize some of its certifications. Certification requirements are compiled, the organisation verifies and confirms they agree with the checklist. We audit the process and tokenize/document all proof of compliance (test reports, analysis, consensus on similarity, pictures or any combinations of other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections (typically a 5 why investigation), new tokens are created to document this new work. We re-audit untill all non compliances are resolved to confirm the adequacy of the corrections and of the RCA and re-issue new DCS tokens for the now fully compliant process. The organisation can then prove, demonstrate, show to the authorities or other interested parties its compliance. Interested parties can then verify (on the blockchain) any digital certificates. DCS holders can also provide DCS tokens proving the full provenance of their products at any stage. DCS can also be used to prevent counterfeiting by establishing the full provenance of products from their design to their testing and finbally to their use in service. The organisation now owns its DCS token and may dispose of them as they wish (DCS are like a digital twin representing products and their provenance/history and can therefore be traded or sold with the product). The organisation backs up its DCS products certificates from the blockchain using their IT record keeping procedures.  
-
-Payments:   
-BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
-BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
-For Paypal and Interrac please contact us.  
-
-# Definitions 
-CC = Crypto Currencies.  
-DCS= Digital Certification Services.  
-ISMS = Information Security Management System.  
-QMS = Quality Management System.  
-SOR = Statutes Orders Regulations.  
-SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
-
-AS 9100 An iso9001 based standardized quality management system (QMS) for the aerospace industry.  
-CAR Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
-ISO 9001 Quality Management system.  
-ISO 14001 Environmental Management Systems.  
-ISO 27001 Information Security Management System (ISMS). 
 
 ## DCS  
 DCS (Digital Certification Services) are our own tokens representing real-world products, services such as certifications (proof of regulatory compliance (tests, analysis, consensus on similarity)), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
@@ -64,8 +55,7 @@ DCS (Digital Certification Services) are our own tokens representing real-world 
 The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)  
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
 
-## SLP
-[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens are representations (digital twin) of valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own DCS) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain. 
+[SLP is the Simple ledger Protocol](https://simpleledger.cash) A token system for Bitcoin Cash. It is similar to the ERC-20 standard. SLP tokens can be used as representations (digital twin) of valuable real-world assets, products, services in the SLP blockchain which can be sent and received. SLP tokens (like our own DCS) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain. 
 
 ## Legal
 
