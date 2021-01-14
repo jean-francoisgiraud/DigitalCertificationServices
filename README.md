@@ -17,7 +17,11 @@ Witnessing, auditing, certifying on an incorruptible blockchain ledger of transa
 SCOPE: Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
 SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
 
-Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, pictures or any other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections. We re-audit to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The customer can then digitally prove, demonstrate, show to the authorities or other interested parties her/his compliance. Upon a request from an auhtority or customer a digital certificate holder can provide a token proving the full provenance of her/his product at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service. The customer backs up her/his product's blockchain using their IT record keeping process.  
+Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, consensus on similarity, pictures or any combinations of other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections (typically a 5 why). We re-audit to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The customer can then digitally prove, demonstrate, show to the authorities or other interested parties her/his compliance. Upon a request from an auhtority or customer a digital certificate holder can provide a token proving the full provenance of her/his product at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service. The customer backs up her/his product's blockchain using their IT record keeping process.  
+
+Privacy: DCS token can be on a public or private blockchain.  
+
+Data security: ISO 27001 (ISMS).  
 
 Payments:   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
@@ -36,31 +40,27 @@ For Paypal and Interrac please contact us.
 # Definitions 
 CC = Crypto Currencies.  
 DCS= Digital Certification Services.  
+ISMS = Information Security Management System.  
 QMS = Quality Management System.  
 SOR = Statutes Orders Regulations.  
 SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
-Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
-AS 9100 is a standardized quality management system (QMS)for the aerospace industry. It is based on ISO 9001.  
-ISO 9001 sets out the criteria for a quality management system.  
-ISO 27001 is the international standard that sets out the specification for an information security management system (ISMS). 
+AS 9100 An iso9001 based standardized quality management system (QMS) for the aerospace industry.  
+CAR Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
+ISO 9001 Quality Management system.  
+ISO 27001 Information Security Management System (ISMS). 
 
 ## Legal
 
 Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.   
-
 Disclaimer. This is not financial advice and there are no warranties of any types.  
-
-In case of conflict between this procedure and any official regulatory requirements published by the elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence.  
-
-Legal Requirements for CCs, smart contracts and QMS depend on the country where the CCs or QMS are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
-
-In Canada blockchains, smart contracts and crypto currencies are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of resources (time, money) in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you buy and sell CCs or operate smart-contracts at a profit, you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
+In case of conflict between this procedure and any official regulatory requirements published by the elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence. Legal Requirements for CCs, smart contracts and QMS depend on the country where the CCs or QMS are used. Ex See https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
+In Canada blockchains, smart contracts and crypto currencies are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of resources (time, money) in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you trade, buy and sell CCs or operate smart-contracts you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
 
 2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCertificationServices", with SHA-1 checksum commit 20210112t0638 which can be verified on the github revision control and document management system (the latest commit as of this writting is fb2a969). I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, Jean-Francois Giraud https://github.com/jean-francoisgiraud. 
 
 ## DCS  
-DCS (Digital Certification Services) are our own tokens representing real-world certification (proof of regulatory compliance), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+DCS (Digital Certification Services) are our own tokens representing real-world products, services such as certifications (proof of regulatory compliance (tests, analysis, consensus on similarity)), assets, products, services. DPS can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
 
 The DCS coin is listed on bitcoin.com [here](https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7)  
 https://explorer.bitcoin.com/bch/token/ee7fd620ec270e1e5856596a5d6646f02c412e8844fa16cb4e576b5409a2e9a7
