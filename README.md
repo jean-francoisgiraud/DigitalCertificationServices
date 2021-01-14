@@ -10,11 +10,13 @@ Digitizing and tokenizing proof of compliance to certification requirements.
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
 
 # Services
-Management of: proof of regulatory compliance; smart-contract, blockchain, crypto-currencies.  
+Management of:  
+Proof of regulatory compliance; smart-contract, blockchain, crypto-currencies.  
 Digital Certification Services (DCS). Replacing analog paper wet-ink certifications with digitally signed and encrypted blockchain.  
 Witnessing, auditing, certifying on an incorruptible blockchain ledger of transactions programmed to record proof of compliance.  
 
-SCOPE: Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
+SCOPE:  
+Canadian Aviation Regulations (CARs) and Standards. Quality management and assurance (AS9100, ISO9001, ISO27001).  
 SOR-96-433-901.01 Part IX — Remotely Piloted Aircraft Systems and CAR 901.29 (maintained to manufacturer's instructions).  
 
 Typical worflow: A customer wants to digitize her/his certification process. Certification requirements are compiled, the customer confirms. We audit the process and tokenize/document all proof of compliance (test reports, analysis, consensus on similarity, pictures or any combinations of other objective evidences) in the DCS blockchain. Any non-compliances are corrected by the customer with a root cause analysis (RCA) supporting the corrections (typically a 5 why). We re-audit to confirm the adequacy of the corrections and of the RCA and re-issue a new DCS tokens for the now fully compliant process. The customer can then digitally prove, demonstrate, show to the authorities or other interested parties her/his compliance. Upon a request from an auhtority or customer a digital certificate holder can provide a token proving the full provenance of her/his product at any stage. DCS can also used to prevent counterfeiting by establishing the full provenance of a product or service from its design to its use in-service. The customer backs up her/his product's blockchain using their IT record keeping process.  
@@ -52,7 +54,7 @@ ISO 27001 Information Security Management System (ISMS).
 
 ## Legal
 
-Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.   
+Below is a brief summary of the legal and regulatory requirements, please contact us for the full terms of services.  
 Disclaimer. This is not financial advice and there are no warranties of any types.  
 In case of conflict between this procedure and any official regulatory requirements published by the elected authorities the latter (i.e. the regulatory requirements, orders or statutes (the formal written enactment of legislative authority that govern the legal requirements)) shall always take precedence. Legal Requirements for CCs, smart contracts and QMS depend on the country where the CCs or QMS are used. Ex See https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
 In Canada blockchains, smart contracts and crypto currencies are regulated under provincial securities laws. A "security" means "an investment contract" which require an investment of resources (time, money) in a business which may succeed or fail depending on the quantity and quality of the work of the business managers. This means that if you trade, buy and sell CCs or operate smart-contracts you have profits and/or losses (from capital gains) that need to be reported for tax purposes.  
