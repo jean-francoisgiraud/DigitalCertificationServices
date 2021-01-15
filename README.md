@@ -19,7 +19,7 @@ QMS = Quality Management System.
 SOR = Statutes Orders Regulations.  
 SLP = Simple Ledger Protocol (like ERC-20 but for BCH)  
 
-Coin/Token
+Crypto tokens are a type of cryptocurrency that represent an asset or specific use and reside on their blockchain.  
 AS 9100 An iso9001 based standardized quality management system (QMS) for the aerospace industry.  
 CAR Canadian Aviation Regulations SOR/96-433 AERONAUTICS ACT  
 ISO 9001 Quality Management system.  
