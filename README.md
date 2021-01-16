@@ -58,6 +58,8 @@ Verifying messages (such as certification data) to a token.
 In your wallet (in this example we will use the wallet "My BCH wallet") use the function "View transaction on block explorer". This will take you to the explorer.bitcoin.com blockchain and you will have 2 options "Summary" or "View details" select summary to see the basic data for this transaction select View details for all the data including the message related to this transaction.  Or When you open a block chain file with a text editor that can display ASCII characters, your message will be visible. The message will be in [ASCII table encoding](MessageInAbitcoinRawData.JPG) accompanied by much data related to the management of the blockchain but unrelated to the message. 
 For a bitcoin example you can from blockchain.info view the blocks infomation with "Input Script" hash values then you can read the messages from blockchain.info.
 
+The original Bitcoin has a simple scripting language which can be used to store information (metadata) on its blockchain. "Colored Coins"  incorporate more metadata that can be used for issuing, trading (buying selling) digital assets representing real world value which can then  be connected to a real-world promises which can be redeemed for valuable real world assets.  
+
 [See also](https://hackernoon.com/adding-messages-on-the-bitcoin-blockchain-a-how-to-guide-h6593xkz)
 
 ## DCS  
